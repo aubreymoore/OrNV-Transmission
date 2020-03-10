@@ -2,7 +2,7 @@
 
 ## Git Workflow
 
-1. Open a terminal.
+1. Navigate to the **OrNV-Transmission** folder and open a terminal window.
 1. Download any changes from the GitHub repo.
 ```
 git pull
