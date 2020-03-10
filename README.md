@@ -4,7 +4,7 @@
 
 **ornv-transmission.csv**  is a text file containing the bioassay data.
 
-**ornv-transmission. ipynb** is a Jupyter notebook which generates plots for the tech report
+**ornv-transmission. ipynb** is a Jupyter notebook which analyzes the data and generates plots for the tech report.
 
 **ornv-transmission.tex** is a text file, with **tex** mark up, which generates the tech report.
 
