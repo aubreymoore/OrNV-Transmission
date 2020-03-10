@@ -7,7 +7,7 @@
 ```
 git pull
 ```
-1. Work.
+1. Work on files and folders within **OrNV-Transmission**.
 1. Update the local repo.
 ```
 git add .
