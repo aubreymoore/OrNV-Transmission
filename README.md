@@ -12,7 +12,7 @@
 
 ## Git Workflow
 
-This project uses a [GitHub repository](https://github.com/aubreymoore/OrNV-Transmission). Please perform the following actions every time you work on it.
+This project uses a [GitHub repository](https://github.com/aubreymoore/OrNV-Transmission). Please perform the following actions every time you work on this project.
 
 1. Navigate to the **OrNV-Transmission** folder and open a terminal window.
 1. Download any changes from the GitHub repo.
