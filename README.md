@@ -12,6 +12,8 @@
 
 ## Git Workflow
 
+Useful article on GitHub collaboration: https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67.
+
 This project uses a [GitHub repository](https://github.com/aubreymoore/OrNV-Transmission). Please perform the following actions every time you work on this project.
 
 1. Navigate to the **OrNV-Transmission** folder and open a terminal window.
