@@ -9,12 +9,12 @@
     ```
 1. Work on files and folders within **OrNV-Transmission**.
 1. Update the local repo.
-```
-git add .
-git commit -m 'minor improvements'
-```
+    ```
+    git add .
+    git commit -m 'minor improvements'
+    ```
 1. Upload your changes to the GitHub repo.
-```
-git push
-```
+    ```
+    git push
+    ```
 
