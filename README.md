@@ -1,8 +1,5 @@
 # OrNV-Transmission
 
-THIS LINE WAS CHANGED IN THE TEST BRANCH.
-i ALSO ADDED A FILE, caca.txt
-
 ## Main Files
 
 **ornv-transmission.csv**  is a text file containing the bioassay data.
