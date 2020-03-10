@@ -13,7 +13,7 @@ git pull
 git add .
 git commit -m 'minor improvements'
 ```
-1. Upload your cnages to the GitHub repo.
+1. Upload your changes to the GitHub repo.
 ```
 git push
 ```
