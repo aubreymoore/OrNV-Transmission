@@ -30,7 +30,10 @@
 
 \subsection{Beetles}
 
-\subsection{Virus}
+Beetles were field collected from pheromone sites and kept individually in moist peat moss in Mason jars. The jars were held under 
+standard rearing conditions in an environmental chamber: 30 deg C; 80\% RH; 12h photoperiod.
+
+\subsection{Virus and Dosing Method}
 
 Beetles were dosed per os with ca. 30 microlitre V23B virus preparation of unknown concentration (AgResearch, New Zealand).
 
@@ -38,12 +41,20 @@ Beetles were dosed per os with ca. 30 microlitre V23B virus preparation of unkno
 
 To test for virus transmission, beetles were selected at random and assigned to 45 pairs with a male and a female 
 in each pair. These pairs were housed in Mason jars half filled with moist peat moss. The jars were held under 
-standard rearing conditions in an environmental chamber: 30 deg C; 80\% RH; 12h photoperiod. At the start of the 
-bioassay, the beetle pairs were randomly placed in 3 treatment groups of 15 jars each. 
+standard rearing conditions. At the start of the bioassay, the beetle pairs were randomly placed in 3 treatment groups of 15 jars each. Beetles were observed every other day.
+
+\subsection{Post-mortems}
+
+Dead beetles were dissected and images were made of guts using a cellphone camera. Note on pathology were recorded.
+
+
+\section{Analysis}
+
+Data were saved in a comma separated values text file, \textbf{OrNV-transmission.csv}. Analysis was performed using a Jupyter notebook, \textbf{OrNV-transmission.ipynb}.
 
 \begin{table}[h]
 	\centering
-\caption{caption}
+\caption{Treatment groups.}
 	
 \begin{tabular}{ll}
 	\toprule
@@ -59,25 +70,27 @@ bioassay, the beetle pairs were randomly placed in 3 treatment groups of 15 jars
 
 \section{Results}
 
+Results from this experiment are inconclusive because ofh high control mortality (Fig. \ref{fig:survivorship}).
+
 \begin{figure}[h]
 \centering
 \includegraphics[width=\textwidth]{survivorship.pdf}
-\caption{Caption}
+\caption{Survival of beetles after treatment.}
 \label{fig:survivorship}
 \end{figure}
 
 \begin{figure}[h]
 \centering
 \includegraphics[width=\textwidth]{tf.pdf}
-\caption{Caption}
+\caption{Mortality of beetles in jars where the female was dosed with virus. Points indicate time of death, in days after treatment, for dosed (red points) and undosed beetles (green points).}
 \label{fig:tf}
 \end{figure}
 
 \begin{figure}[h]
 \centering
 \includegraphics[width=\textwidth]{tm.pdf}
-\caption{Caption}
-\label{fig:tf}
+\caption{Mortality of beetles in jars where the male was dosed with virus. Points indicate time of death, in days after treatment, for dosed (red points) and undosed beetles (green points).}
+\label{fig:tm}
 \end{figure}
 
 \end{document}
