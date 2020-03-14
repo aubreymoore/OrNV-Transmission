@@ -1,8 +1,8 @@
-![T-7 IF/UM](/home/aubrey/Desktop/OrNV-Transmission/pm-images/20191229_120148.jpg)T-7 IF/UM
-
-![T-1 IM/UF male](/home/aubrey/Desktop/OrNV-Transmission/pm-images/20200102_111008.jpg)T-1 IM/UF male
+![T-7 IF/UM](20191229_120148.jpg)T-7 IF/UM
+![T-1 IM/UF male](20200102_111008.jpg)T-1 IM/UF male
 
 ![C-7 female](/home/aubrey/Desktop/OrNV-Transmission/pm-images/20200102_112130.jpg)C-7 female
+
 ![20200102_112827](/home/aubrey/Desktop/OrNV-Transmission/pm-images/20200102_112827.jpg)C-7 male
 
 ![20200108_101434](/home/aubrey/Desktop/OrNV-Transmission/pm-images/20200108_101434.jpg)T-13 IF/UM
@@ -159,7 +159,9 @@
 
 ![20200129_160042](/home/aubrey/Desktop/OrNV-Transmission/pm-images/20200129_160042.jpg)T-7 IM/UF female
 
-![20200129_161110_001](/home/aubrey/Desktop/OrNV-Transmission/pm-images/20200129_161110_001.jpg)C-3 female![20200129_161110_002](/home/aubrey/Desktop/OrNV-Transmission/pm-images/20200129_161110_002.jpg)C-3 female
+![20200129_161110_001](/home/aubrey/Desktop/OrNV-Transmission/pm-images/20200129_161110_001.jpg)C-3 female
+
+![20200129_161110_002](/home/aubrey/Desktop/OrNV-Transmission/pm-images/20200129_161110_002.jpg)C-3 female
 
 ![20200129_161111](/home/aubrey/Desktop/OrNV-Transmission/pm-images/20200129_161111.jpg)C-3 female
 
